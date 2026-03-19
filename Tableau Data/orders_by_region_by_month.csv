@@ -1,0 +1,216 @@
+state_abbr,state_name,order_month,total_orders
+AC,Acre,2018-01,6
+AC,Acre,2018-02,3
+AC,Acre,2018-03,2
+AC,Acre,2018-04,4
+AC,Acre,2018-05,2
+AC,Acre,2018-06,3
+AC,Acre,2018-07,4
+AC,Acre,2018-08,3
+AL,Alagoas,2018-01,36
+AL,Alagoas,2018-02,27
+AL,Alagoas,2018-03,27
+AL,Alagoas,2018-04,27
+AL,Alagoas,2018-05,19
+AL,Alagoas,2018-06,24
+AL,Alagoas,2018-07,22
+AL,Alagoas,2018-08,16
+AM,Amazonas,2018-01,12
+AM,Amazonas,2018-02,8
+AM,Amazonas,2018-03,8
+AM,Amazonas,2018-04,6
+AM,Amazonas,2018-05,9
+AM,Amazonas,2018-06,7
+AM,Amazonas,2018-07,18
+AM,Amazonas,2018-08,4
+AP,Amapa,2018-01,11
+AP,Amapa,2018-02,2
+AP,Amapa,2018-03,5
+AP,Amapa,2018-04,5
+AP,Amapa,2018-05,6
+AP,Amapa,2018-06,2
+AP,Amapa,2018-07,6
+AP,Amapa,2018-08,2
+BA,Bahia,2018-01,228
+BA,Bahia,2018-02,208
+BA,Bahia,2018-03,235
+BA,Bahia,2018-04,216
+BA,Bahia,2018-05,237
+BA,Bahia,2018-06,198
+BA,Bahia,2018-07,245
+BA,Bahia,2018-08,159
+CE,Ceara,2018-01,77
+CE,Ceara,2018-02,84
+CE,Ceara,2018-03,93
+CE,Ceara,2018-04,96
+CE,Ceara,2018-05,72
+CE,Ceara,2018-06,72
+CE,Ceara,2018-07,84
+CE,Ceara,2018-08,55
+DF,Distrito Federal,2018-01,135
+DF,Distrito Federal,2018-02,170
+DF,Distrito Federal,2018-03,147
+DF,Distrito Federal,2018-04,146
+DF,Distrito Federal,2018-05,140
+DF,Distrito Federal,2018-06,147
+DF,Distrito Federal,2018-07,165
+DF,Distrito Federal,2018-08,143
+ES,Espirito Santo,2018-01,145
+ES,Espirito Santo,2018-02,149
+ES,Espirito Santo,2018-03,133
+ES,Espirito Santo,2018-04,140
+ES,Espirito Santo,2018-05,132
+ES,Espirito Santo,2018-06,123
+ES,Espirito Santo,2018-07,122
+ES,Espirito Santo,2018-08,103
+GO,Goias,2018-01,144
+GO,Goias,2018-02,146
+GO,Goias,2018-03,141
+GO,Goias,2018-04,132
+GO,Goias,2018-05,136
+GO,Goias,2018-06,105
+GO,Goias,2018-07,112
+GO,Goias,2018-08,117
+MA,Maranhao,2018-01,55
+MA,Maranhao,2018-02,55
+MA,Maranhao,2018-03,49
+MA,Maranhao,2018-04,46
+MA,Maranhao,2018-05,32
+MA,Maranhao,2018-06,41
+MA,Maranhao,2018-07,39
+MA,Maranhao,2018-08,29
+MG,Minas Gerais,2018-01,846
+MG,Minas Gerais,2018-02,790
+MG,Minas Gerais,2018-03,856
+MG,Minas Gerais,2018-04,778
+MG,Minas Gerais,2018-05,751
+MG,Minas Gerais,2018-06,714
+MG,Minas Gerais,2018-07,644
+MG,Minas Gerais,2018-08,700
+MS,Mato Grosso do Sul,2018-01,70
+MS,Mato Grosso do Sul,2018-02,64
+MS,Mato Grosso do Sul,2018-03,57
+MS,Mato Grosso do Sul,2018-04,43
+MS,Mato Grosso do Sul,2018-05,44
+MS,Mato Grosso do Sul,2018-06,49
+MS,Mato Grosso do Sul,2018-07,49
+MS,Mato Grosso do Sul,2018-08,35
+MT,Mato Grosso,2018-01,83
+MT,Mato Grosso,2018-02,67
+MT,Mato Grosso,2018-03,52
+MT,Mato Grosso,2018-04,64
+MT,Mato Grosso,2018-05,66
+MT,Mato Grosso,2018-06,58
+MT,Mato Grosso,2018-07,47
+MT,Mato Grosso,2018-08,39
+PA,Para,2018-01,69
+PA,Para,2018-02,57
+PA,Para,2018-03,67
+PA,Para,2018-04,66
+PA,Para,2018-05,40
+PA,Para,2018-06,54
+PA,Para,2018-07,57
+PA,Para,2018-08,43
+PB,Paraiba,2018-01,31
+PB,Paraiba,2018-02,35
+PB,Paraiba,2018-03,39
+PB,Paraiba,2018-04,28
+PB,Paraiba,2018-05,29
+PB,Paraiba,2018-06,28
+PB,Paraiba,2018-07,51
+PB,Paraiba,2018-08,28
+PE,Pernambuco,2018-01,102
+PE,Pernambuco,2018-02,121
+PE,Pernambuco,2018-03,107
+PE,Pernambuco,2018-04,110
+PE,Pernambuco,2018-05,102
+PE,Pernambuco,2018-06,91
+PE,Pernambuco,2018-07,136
+PE,Pernambuco,2018-08,83
+PI,Piaui,2018-01,47
+PI,Piaui,2018-02,32
+PI,Piaui,2018-03,34
+PI,Piaui,2018-04,34
+PI,Piaui,2018-05,30
+PI,Piaui,2018-06,29
+PI,Piaui,2018-07,32
+PI,Piaui,2018-08,20
+PR,Parana,2018-01,371
+PR,Parana,2018-02,335
+PR,Parana,2018-03,369
+PR,Parana,2018-04,381
+PR,Parana,2018-05,308
+PR,Parana,2018-06,306
+PR,Parana,2018-07,314
+PR,Parana,2018-08,327
+RJ,Rio de Janeiro,2018-01,850
+RJ,Rio de Janeiro,2018-02,879
+RJ,Rio de Janeiro,2018-03,864
+RJ,Rio de Janeiro,2018-04,807
+RJ,Rio de Janeiro,2018-05,816
+RJ,Rio de Janeiro,2018-06,707
+RJ,Rio de Janeiro,2018-07,696
+RJ,Rio de Janeiro,2018-08,723
+RN,Rio Grande do Norte,2018-01,42
+RN,Rio Grande do Norte,2018-02,23
+RN,Rio Grande do Norte,2018-03,38
+RN,Rio Grande do Norte,2018-04,32
+RN,Rio Grande do Norte,2018-05,22
+RN,Rio Grande do Norte,2018-06,35
+RN,Rio Grande do Norte,2018-07,29
+RN,Rio Grande do Norte,2018-08,20
+RO,Rondonia,2018-01,20
+RO,Rondonia,2018-02,13
+RO,Rondonia,2018-03,13
+RO,Rondonia,2018-04,11
+RO,Rondonia,2018-05,17
+RO,Rondonia,2018-06,11
+RO,Rondonia,2018-07,16
+RO,Rondonia,2018-08,8
+RR,Roraima,2018-01,1
+RR,Roraima,2018-02,3
+RR,Roraima,2018-03,5
+RR,Roraima,2018-04,2
+RR,Roraima,2018-05,1
+RR,Roraima,2018-06,5
+RR,Roraima,2018-07,5
+RS,Rio Grande do Sul,2018-01,367
+RS,Rio Grande do Sul,2018-02,363
+RS,Rio Grande do Sul,2018-03,407
+RS,Rio Grande do Sul,2018-04,345
+RS,Rio Grande do Sul,2018-05,350
+RS,Rio Grande do Sul,2018-06,304
+RS,Rio Grande do Sul,2018-07,308
+RS,Rio Grande do Sul,2018-08,293
+SC,Santa Catarina,2018-01,311
+SC,Santa Catarina,2018-02,254
+SC,Santa Catarina,2018-03,247
+SC,Santa Catarina,2018-04,245
+SC,Santa Catarina,2018-05,226
+SC,Santa Catarina,2018-06,205
+SC,Santa Catarina,2018-07,195
+SC,Santa Catarina,2018-08,201
+SE,Sergipe,2018-01,19
+SE,Sergipe,2018-02,15
+SE,Sergipe,2018-03,17
+SE,Sergipe,2018-04,13
+SE,Sergipe,2018-05,8
+SE,Sergipe,2018-06,25
+SE,Sergipe,2018-07,26
+SE,Sergipe,2018-08,23
+SP,Sao Paulo,2018-01,2975
+SP,Sao Paulo,2018-02,2632
+SP,Sao Paulo,2018-03,2971
+SP,Sao Paulo,2018-04,3002
+SP,Sao Paulo,2018-05,3138
+SP,Sao Paulo,2018-06,2735
+SP,Sao Paulo,2018-07,2712
+SP,Sao Paulo,2018-08,3164
+TO,Tocantins,2018-01,16
+TO,Tocantins,2018-02,20
+TO,Tocantins,2018-03,20
+TO,Tocantins,2018-04,19
+TO,Tocantins,2018-05,16
+TO,Tocantins,2018-06,18
+TO,Tocantins,2018-07,22
+TO,Tocantins,2018-08,13
