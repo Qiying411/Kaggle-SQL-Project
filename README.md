@@ -1,5 +1,6 @@
 # Project Overview
 Analyzing Delivery Performance and Order Trends in E-Commerce using dataset from Kaggle. (Brazilian E-Commerce Public Dataset by Olist)
+<img width="1646" height="980" alt="Screenshot 2026-03-20 145411" src="https://github.com/user-attachments/assets/d1f465ea-073e-4de2-8f14-16c90ca8b048" />
 
 This dataset comes from the Brazilian e-commerce platform **Olist**. It contains information on approximately **100,000** orders from **2016 to 2018**, made across multiple marketplaces in Brazil. 
 
@@ -57,6 +58,3 @@ README.md     → Project overview
 - Average cycle time remained around 12.5 days across segments.
 - Reliability is strong, with ~94–96% of orders delivered on time.
 - Sao Paulo consistently leads in order volume compared to other regions.
-
-## Screenshots
-
