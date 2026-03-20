@@ -33,10 +33,21 @@ The dashboard highlights:
 ## Repository Structure
 /Cleaned data → Data cleaned using Pandas library in python
 
-/python       → Kaggle notebook (.ipynb)
+/Original Data → Dataset taken from Kaggle
+
+/Tableau data → Data extracted using SQL, ready to be visualized in Tableau
+
 /screenshots  → Dashboard screenshots
 
 /tableau      → Tableau workbook (.twb) and dashboard in pdf form
 
-/screenshots  → Dashboard screenshots
+/python       → Kaggle notebook (.ipynb)
+
 README.md     → Project overview
+
+## How to Reproduce
+- Run the Python notebook in /python to clean and prepare the dataset.
+- Execute SQL scripts Kaggle notebook to generate aggregated tables in /SQL.
+- Open the Tableau workbook (.twb) in /tableau.
+- Connect to the dataset and refresh extracts if needed.
+- Explore the dashboard views.
