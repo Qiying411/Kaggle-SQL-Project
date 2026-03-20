@@ -51,3 +51,12 @@ README.md     → Project overview
 - Open the Tableau workbook (.twb) in /tableau.
 - Connect to the dataset and refresh extracts if needed.
 - Explore the dashboard views.
+
+## Key Insights
+- Order volume grew steadily between 2016–2018.
+- Average cycle time remained around 12.5 days across segments.
+- Reliability is strong, with ~94–96% of orders delivered on time.
+- Sao Paulo consistently leads in order volume compared to other regions.
+
+## Screenshots
+<img width="1453" height="1074" alt="Screenshot 2026-03-20 145525" src="https://github.com/user-attachments/assets/d37b478a-39e3-42e4-8797-ca05941e84a8" />
