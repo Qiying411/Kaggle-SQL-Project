@@ -30,10 +30,13 @@ The dashboard highlights:
 - Tableau → dashboard design and visualization
 - GitHub → project hosting, documentation, and version control
 
+## Repository Structure
+/Cleaned data → Data cleaned using Pandas library in python
 
-/sql          → SQL scripts (queries, schema, ETL steps)
 /python       → Kaggle notebook (.ipynb)
-/tableau      → Tableau workbook (.twb)
 /screenshots  → Dashboard screenshots
-/docs         → Documentation and notes
+
+/tableau      → Tableau workbook (.twb) and dashboard in pdf form
+
+/screenshots  → Dashboard screenshots
 README.md     → Project overview
