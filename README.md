@@ -59,4 +59,4 @@ README.md     → Project overview
 - Sao Paulo consistently leads in order volume compared to other regions.
 
 ## Screenshots
-<img width="1453" height="1074" alt="Screenshot 2026-03-20 145525" src="https://github.com/user-attachments/assets/d37b478a-39e3-42e4-8797-ca05941e84a8" />
+
